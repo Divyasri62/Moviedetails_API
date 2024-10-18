@@ -43,3 +43,7 @@ Method: POST
 URL: /get_movie
 Parameters: title (string) - Movie title entered by the user.
 Description: Fetches the movie details from OMDB API based on the title.
+
+#Authors
+- Lalam Divya Sri
+- Hafeeza Bhanu Mohmmad
